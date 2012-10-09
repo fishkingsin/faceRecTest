@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\addons\ofxOpenCv\libs\opencv\include\cv.h" open="0" top="0" tabpos="0">
+		<Cursor position="20125" topLine="453" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\libs\opencv\include\cvaux.h" open="0" top="0" tabpos="0">
+		<Cursor position="4456" topLine="64" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\libs\opencv\include\cvtypes.h" open="0" top="0" tabpos="0">
+		<Cursor position="2249" topLine="24" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="678" topLine="15" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvColorImage.h" open="0" top="0" tabpos="0">
+		<Cursor position="1975" topLine="42" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2767" topLine="131" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvFloatImage.h" open="0" top="0" tabpos="6">
+		<Cursor position="232" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="8972" topLine="223" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvGrayscaleImage.h" open="0" top="0" tabpos="4">
+		<Cursor position="288" topLine="38" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="3784" topLine="57" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvHaarFinder.h" open="0" top="0" tabpos="5">
+		<Cursor position="479" topLine="0" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7308" topLine="227" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvImage.h" open="0" top="0" tabpos="10">
+		<Cursor position="1933" topLine="41" />
+	</File>
+	<File name="..\..\..\addons\ofxOpenCv\src\ofxCvShortImage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6055" topLine="121" />
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="src\ofxCvFaceRec.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="6444" topLine="181" />
+	</File>
+	<File name="src\ofxCvFaceRec.h" open="1" top="0" tabpos="5">
+		<Cursor position="788" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1127" topLine="9" />
+	</File>
+	<File name="src\testApp.h" open="1" top="1" tabpos="1">
+		<Cursor position="130" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\app\ofAppRunner.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3443" topLine="127" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\app\ofAppRunner.h" open="1" top="0" tabpos="7">
+		<Cursor position="399" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofGraphics.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="16" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofGraphics.h" open="0" top="0" tabpos="0">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofImage.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="4392" topLine="213" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofImage.h" open="1" top="0" tabpos="6">
+		<Cursor position="1804" topLine="39" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofTexture.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="4516" topLine="166" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofTexture.h" open="0" top="0" tabpos="2">
+		<Cursor position="77" topLine="37" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofTrueTypeFont.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="28923" topLine="861" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofTrueTypeFont.h" open="0" top="0" tabpos="0">
+		<Cursor position="2096" topLine="40" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofConstants.h" open="0" top="0" tabpos="0">
+		<Cursor position="6742" topLine="265" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofTypes.h" open="0" top="0" tabpos="0">
+		<Cursor position="3865" topLine="169" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofUtils.h" open="0" top="0" tabpos="0">
+		<Cursor position="278" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
